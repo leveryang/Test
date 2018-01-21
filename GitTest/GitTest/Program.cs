@@ -13,4 +13,12 @@ namespace GitTest
             Console.WriteLine("Hello Git!");
         }
     }
+
+    class other
+    {
+        static void g ()
+        {
+
+        }
+    }
 }
