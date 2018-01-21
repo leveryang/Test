@@ -18,7 +18,7 @@ namespace GitTest
     {
         static void g ()
         {
-
+            // This is for TestBranch.
         }
     }
 }
