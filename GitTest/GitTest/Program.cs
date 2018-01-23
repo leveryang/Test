@@ -18,7 +18,7 @@ namespace GitTest
     {
         static void g ()
         {
-            // This is for Test1-->TestBranch.
+            // This is for TestBranch.
         }
     }
 }
