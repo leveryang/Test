@@ -18,7 +18,7 @@ namespace GitTest
     {
         static void g ()
         {
-               
+            // in master
         }
     }
 }
